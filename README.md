@@ -1,6 +1,6 @@
 # Tona
 
-In this code sample, I explore TypeScript decorators and the `compromise` natural language processing library.
+In this code sample, I explore TypeScript decorators and the [`compromise`](https://www.npmjs.com/package/compromise) natural language processing library.
 
 ## Introduction
 
