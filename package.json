@@ -1,0 +1,20 @@
+{
+  "name": "tona",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "compromise": "^14.13.0",
+    "dayjs": "^1.11.12"
+  }
+}
